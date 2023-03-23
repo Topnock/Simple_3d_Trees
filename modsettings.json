@@ -1,0 +1,20 @@
+{
+    "Version": "1",
+    "Sections": [
+        {
+            "Name": "Core",
+            "Description": "Core mod settings",
+            "IsAdvanced": false,
+            "Keys": [
+                {
+                    "Value": false,
+                    "Name": "HighDefinition",
+                    "Description": "Whether to use the high definition textures",
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.ToggleKey"
+                }
+            ],
+            "$version": "v1"
+        }
+    ]
+}
